@@ -6,7 +6,7 @@ The following terms and conditions govern the use of the animations contained in
 
 1. The Animations are provided for your personal and commercial use, without charge, subject to the restrictions set forth in these terms and conditions.
 
-2. The Animations are licensed for use with Ready Player Me Avatars. Any use of the Animations with avatars or characters other than those from Ready Player Me is prohibited unless expressly permitted in writing by the copyright owner.
+2. The Animations are licensed for use with Ready Player Me Avatars. Any use of the Animations with avatars or characters other than those from Ready Player Me is only permitted when crediting the copyright owner.
 
 3. You may not redistribute, sell, or otherwise transfer the Animations, in whole or in part, to any third party, whether for commercial or non-commercial purposes, without the prior written consent of the owner of the copyright in the Animations.
 
